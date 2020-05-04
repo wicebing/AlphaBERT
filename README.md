@@ -1,3 +1,11 @@
+How to use?
+
+./ntuh_d2s_alphaBERT/python ntuh_alphaBERT.py
+
+
+
+
+
 Please cite as:
 
 Chen YP, Chen YY, Lin JJ, Huang CH, Lai F
