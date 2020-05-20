@@ -17,3 +17,5 @@ JMIR Med Inform 2020;8(4):e17787
 DOI: 10.2196/17787
 
 PMID: 32347806
+
+https://medinform.jmir.org/2020/4/e17787/
